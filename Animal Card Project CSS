@@ -1,0 +1,79 @@
+.cube {
+  	background-image: url("alien_planet_2005.jpg");
+  	margin: 10px;
+  	padding: 10px;
+  	min-width: 250px;
+  	min-height: 250px;
+  	float:left;
+  	box-shadow:  0px 1px 1px 0px rgba(183, 183, 183, 2.0),
+  		 0px 2px 1px 1px rgba(179, 179, 179, 2.0),
+  		 0px 3px 1px 1px rgba(175, 175, 175, 2.0),
+  		 0px 4px 1px 2px rgba(171, 171, 171, 2.0),
+  		 0px 5px 1px 2px rgba(167, 167, 167, 2.0),
+  		 0px 6px 1px 3px rgba(163, 163, 163, 2.0),
+  		 0px 7px 1px 3px rgba(159, 159, 159, 2.0),
+  		 0px 8px 1px 4px rgba(155, 155, 155, 2.0),
+  		 0px 9px 1px 4px rgba(151, 151, 151, 2.0),
+  		 0px 10px 1px 5px rgba(147, 147, 147, 2.0),
+  		 0px 11px 1px 5px rgba(143, 143, 143, 2.0),
+  		 0px 12px 1px 6px rgba(139, 139, 139, 2.0),
+  		 0px 13px 1px 6px rgba(135, 135, 135, 2.0),
+  		 0px 14px 1px 7px rgba(131, 131, 131, 2.0),
+  		 0px 15px 1px 7px rgba(127, 127, 127, 2.0),
+  		 0px 16px 1px 8px rgba(123, 123, 123, 2.0),
+  		 0px 17px 1px 8px rgba(119, 119, 119, 2.0),
+  		 0px 18px 1px 9px rgba(115, 115, 115, 2.0),
+  		 0px 19px 1px 9px rgba(111, 111, 111, 2.0),
+  		 0px 20px 1px 10px rgba(107, 107, 107, 2.0),
+  		 0px 21px 1px 10px rgba(103, 103, 103, 2.0),
+  		 0px 22px 1px 11px rgba(99, 99, 99, 2.0),
+  		 0px 23px 1px 11px rgba(95, 95, 95, 2.0),
+  		 0px 24px 1px 12px rgba(91, 91, 91, 2.0),
+  		 0px 25px 1px 12px rgba(87, 87, 87, 2.0),
+  		 0px 26px 1px 13px rgba(83, 83, 83, 2.0),
+  		 0px 27px 1px 13px rgba(79, 79, 79, 2.0),
+  		 0px 28px 1px 14px rgba(75, 75, 75, 2.0),
+  		 0px 29px 1px 14px rgba(71, 71, 71, 2.0),
+  		 0px 30px 1px 15px rgba(67, 67, 67, 2.0),
+  		 0px 31px 1px 15px rgba(63, 63, 63, 2.0),
+  		 0px 32px 1px 16px rgba(59, 59, 59, 2.0),
+  		 0px 33px 1px 16px rgba(55, 55, 55, 2.0),
+  		 0px 34px 1px 17px rgba(51, 51, 51, 2.0),
+  		 0px 35px 1px 17px rgba(47, 47, 47, 2.0),
+  		 0px 36px 1px 18px rgba(43, 43, 43, 2.0),
+  		 0px 37px 1px 18px rgba(39, 39, 39, 2.0),
+  		 0px 38px 1px 19px rgba(35, 35, 35, 2.0),
+  		 0px 39px 1px 19px rgba(31, 31, 31, 2.0);
+}
+h3 {
+  width: 100%;
+  height: 100%;
+  text-align: center;;
+  font-variant: small-caps;
+  ;
+}
+img {
+  padding-left: 2em;
+  padding-right: 2em;
+  padding-bottom: 8em;
+  max-width: 100%;
+  mix-blend-mode: multiply;
+  cursor: pointer;
+}
+p {
+    text-align: left;
+    text-shadow: grey;
+    font-family: cursive;
+    color: #black;
+    font-weight: 700;
+}
+li {
+  text-align: left;
+  font-style: italic;
+  list-style-type: none;
+  color: white;
+}
+span{
+  font-weight: bold;
+  display:
+}
